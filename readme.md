@@ -4,8 +4,11 @@
 
 ## Commands
 `npm install -g browserify`
+
 `npm install`
+
 `npm run build`
+
 `npm run start`
 
     Go to google chrome (fastest)
