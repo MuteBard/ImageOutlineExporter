@@ -1,6 +1,6 @@
 # ImageOutliner
 
-## Takes an image and gives you the coordinates of the outlines in several csv files to be fed into blender
+## Takes an image and gives you the coordinates of the outlines in several csv files to be fed into Blender
 
 ## Commands
 `npm install -g browserify`
